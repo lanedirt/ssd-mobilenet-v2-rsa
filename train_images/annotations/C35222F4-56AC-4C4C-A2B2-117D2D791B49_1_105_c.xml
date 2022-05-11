@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>C35222F4-56AC-4C4C-A2B2-117D2D791B49_1_105_c.jpeg</filename>
+	<path>C:\tutorialabdelrahman-gaber\tf2-object-detection-api-tutorial\data\rsa_data\train\images\C35222F4-56AC-4C4C-A2B2-117D2D791B49_1_105_c.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rsaback</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>530</ymin>
+			<xmax>486</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

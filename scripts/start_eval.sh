@@ -1,0 +1,1 @@
+python3 python/model_main_tf2.py --alsologtostderr --model_dir=../generated_model --pipeline_config_path=../ssd_mobilenet_v2_rsa.config --checkpoint_dir=../generated_model  2>&1 | tee ../generated_model/eval.log

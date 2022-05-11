@@ -1,0 +1,4 @@
+generated_model/*
+!generated_model/README.md
+generated_train_input/*
+!generated_train_input/README.md

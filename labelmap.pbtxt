@@ -1,0 +1,20 @@
+item {
+  name: "rsa"
+  id: 1
+}
+item {
+  name: "lcd"
+  id: 2
+}
+item {
+  name: "lbl1"
+  id: 3
+}
+item {
+  name: "lbl2"
+  id: 4
+}
+item {
+  name: "rsaback"
+  id: 5
+}
